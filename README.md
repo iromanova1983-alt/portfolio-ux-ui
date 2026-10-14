@@ -18,8 +18,8 @@
 
 *⬇️ Кликните на название проекта, чтобы открыть детальное описание кейса с макетами и логикой решения:*
 
-* [**APIA.SPORT**](../apia-sport.md) — Экосистема бронирования APIA
-* [**Urban Manager**](../urban-manager.md) — Кабинет менеджера по продажам
+* [**APIA.SPORT**](.projects/apia-sport.md) — Экосистема бронирования APIA
+* [**Urban Manager**](.projects/urban-manager.md) — Кабинет менеджера по продажам
 * [**2082.ru**](../2082-ru.md) — Портал грузоперевозок
 * [**Unistream**](../unistream.md) — Мобильное приложение для международных денежных переводов
 * [**Poker Club Management**](../poker-club-management.md) — Сайт покерного клуба
