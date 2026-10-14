@@ -3,9 +3,9 @@
 # Urban Manager
 **2024-2025**
 
-**Теги:** UI/UX, EdTech, WEB
+UI/UX, EdTech, WEB
 
-![Обложка проекта Urban Manager](./images/urban-main.png)
+![Обложка проекта Urban Manager](./images/urban-main.jpg)
 
 ## О проекте
 Urban University — онлайн-университет, где обучают IT-профессиям.
