@@ -18,20 +18,20 @@
 
 *⬇️ Кликните на название проекта, чтобы открыть детальное описание кейса с макетами и логикой решения:*
 
-* ⚽ [**APIA.SPORT**](./projects/apia-sport.md) — Экосистема бронирования APIA
-* 📈 [**Urban Manager**](./projects/urban-manager.md) — Кабинет менеджера по продажам
-* 🛒 [**2082.ru**](./projects/2082-ru.md) — Портал грузоперевозок
-* 💳 [**Unistream**](./projects/unistream.md) — Мобильное приложение для международных денежных переводов
-* ♠️ [**Poker Club Management**](./projects/poker-club-management.md) — Сайт покерного клуба
-* 🔮 [**Astrology App**](./projects/astrology-app.md) — Мобильное приложение для астрологических прогнозов и консультаций
-* 🛡 [**ASN Security**](./projects/asn-security.md) — Корпоративный сайт
-* ⚡ [**Гром**](./projects/grom.md) — Ассоциация безопасности
-* 💊 [**Социальная аптека**](./projects/social-pharmacy.md) — Интернет-аптека
-* 🚚 [**GoDELTA**](./projects/godelta.md) — Системы безопасности
-* 📦 [**Prodly**](./projects/prodly.md) — B2B-маркетплейс
-* 🏥 [**Моя Надежда**](./projects/my-hope.md) — Интернет-аптека и медицинский центр
-* 🧱 [**Concretika**](./projects/concretika.md) — Интернет-магазин
-* 🏒 [**Федерация хоккея Тверской области**](./projects/hockey-tver.md) — Информационный спортивный портал
+* [**APIA.SPORT**](./projects/apia-sport.md) — Экосистема бронирования APIA
+* [**Urban Manager**](./projects/urban-manager.md) — Кабинет менеджера по продажам
+* [**2082.ru**](./projects/2082-ru.md) — Портал грузоперевозок
+* [**Unistream**](./projects/unistream.md) — Мобильное приложение для международных денежных переводов
+* [**Poker Club Management**](./projects/poker-club-management.md) — Сайт покерного клуба
+* [**Astrology App**](./projects/astrology-app.md) — Мобильное приложение для астрологических прогнозов и консультаций
+* [**ASN Security**](./projects/asn-security.md) — Корпоративный сайт
+* [**Гром**](./projects/grom.md) — Ассоциация безопасности
+* [**Социальная аптека**](./projects/social-pharmacy.md) — Интернет-аптека
+* [**GoDELTA**](./projects/godelta.md) — Системы безопасности
+* [**Prodly**](./projects/prodly.md) — B2B-маркетплейс
+* [**Моя Надежда**](./projects/my-hope.md) — Интернет-аптека и медицинский центр
+* [**Concretika**](./projects/concretika.md) — Интернет-магазин
+* [**Федерация хоккея Тверской области**](./projects/hockey-tver.md) — Информационный спортивный портал
 
 ---  
 
