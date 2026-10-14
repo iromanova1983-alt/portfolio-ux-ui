@@ -22,7 +22,7 @@
 * [**Urban Manager**](./projects/urban-manager.md) — Кабинет менеджера по продажам
 * [**2082.ru**](./projects/2082-ru.md) — Портал грузоперевозок
 * [**Unistream**](./projects/unistream.md) — Мобильное приложение для международных денежных переводов
-* [**Poker Club Management**](.projects/poker-club-management.md) — Сайт покерного клуба
+* [**Poker Club Management**](./projects/poker-club-management.md) — Сайт покерного клуба
 * [**Astrology App**](./projects/astrology-app.md) — Мобильное приложение для астрологических прогнозов и консультаций
 * [**ASN Security**](./projects/asn-security.md) — Корпоративный сайт
 * [**Гром**](./projects/grom.md) — Ассоциация безопасности
