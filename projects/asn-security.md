@@ -56,11 +56,11 @@ ASN Security — company в сфере информационной безопа
 
 ## Экраны
 
-![Экран интерфейса 1](../images/asn-screen-1.png)
+![Экран интерфейса 1](../images/asn-screen-1.jpg)
 
-![Экран интерфейса 2](../images/asn-screen-2.png)
+![Экран интерфейса 2](../images/asn-screen-2.jpg)
 
-![Экран интерфейса 3](../images/asn-screen-3.png)
+![Экран интерфейса 3](../images/asn-screen-3.jpg)
 
 ---
 ← [Назад к резюме и списку проектов](../README.md)
