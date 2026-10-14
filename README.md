@@ -31,7 +31,7 @@
 * [**Prodly**](./projects/prodly.md) — B2B-маркетплейс
 * [**Моя Надежда**](./projects/my-hope.md) — Интернет-аптека и медицинский центр
 * [**Concretika**](./projects/concretika.md) — Интернет-магазин
-* [**Федерация хоккея Тверской области**](../projects/fhto.md) — Информационный спортивный портал
+* [**Федерация хоккея Тверской области**](./projects/fhto.md) — Информационный спортивный портал
 
 ---  
 
@@ -108,7 +108,7 @@
 
 ## 📑 Резюме и Контакты
 
-* **hh.ru:** [Посмотреть резюме на HeadHunter](https://spb.hh.ru/resume/383153a4ff10af0e7f0039ed1f434e65736c6e)
+* **Резюме:** [Посмотреть резюме на HeadHunter](https://spb.hh.ru/resume/383153a4ff10af0e7f0039ed1f434e65736c6e)
 * **Telegram:** [@irina_a_romanova](https://t.me/@irina_a_romanova)
 * **Телефон:** +7 (904) 016-04-56
 * **Email:** iromanova1983@yandex.ru
